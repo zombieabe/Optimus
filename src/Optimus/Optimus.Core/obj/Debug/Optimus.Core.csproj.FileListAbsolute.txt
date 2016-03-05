@@ -1,0 +1,4 @@
+S:\Other\Optimus\src\Optimus\Optimus.Core\bin\Debug\Optimus.Core.dll
+S:\Other\Optimus\src\Optimus\Optimus.Core\bin\Debug\Optimus.Core.pdb
+S:\Other\Optimus\src\Optimus\Optimus.Core\obj\Debug\Optimus.Core.dll
+S:\Other\Optimus\src\Optimus\Optimus.Core\obj\Debug\Optimus.Core.pdb

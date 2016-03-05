@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimus.Core", "Optimus.Core\Optimus.Core.csproj", "{0B63E2F8-FACA-4A4D-B9A1-F88F55E53CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimus.Core.Specs", "Optimus.Core.Specs\Optimus.Core.Specs.csproj", "{A2BF40F7-59C5-405D-83CD-E0D7534F2DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimus", "Optimus\Optimus.csproj", "{20E2DC7D-F82D-4F57-8442-A9F18915368E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B63E2F8-FACA-4A4D-B9A1-F88F55E53CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B63E2F8-FACA-4A4D-B9A1-F88F55E53CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B63E2F8-FACA-4A4D-B9A1-F88F55E53CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B63E2F8-FACA-4A4D-B9A1-F88F55E53CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BF40F7-59C5-405D-83CD-E0D7534F2DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BF40F7-59C5-405D-83CD-E0D7534F2DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BF40F7-59C5-405D-83CD-E0D7534F2DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BF40F7-59C5-405D-83CD-E0D7534F2DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E2DC7D-F82D-4F57-8442-A9F18915368E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E2DC7D-F82D-4F57-8442-A9F18915368E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E2DC7D-F82D-4F57-8442-A9F18915368E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E2DC7D-F82D-4F57-8442-A9F18915368E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
