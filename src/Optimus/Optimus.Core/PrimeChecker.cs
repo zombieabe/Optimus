@@ -17,8 +17,10 @@ namespace Optimus.Core
 
             var count = 2;
             bool result = true;
-
-            while (count != numberToCheck)
+            var halfValue = Math.Abs(numberToCheck / 2)+1;
+            //only check up to half, as there is no way a number
+            //can be divisible by a number greater that half
+            while (count != halfValue)
             {
                 if(numberToCheck%count == 0)
                 {
